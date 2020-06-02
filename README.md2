@@ -1,0 +1,6 @@
+# flutter-hello-world
+hello world in flutter
+
+To run, git clone -> cd into flutter-hello-world then type `flutter run` , make sure you have ios simulator open
+check if you have a device connected with `flutter doctor -v`
+
