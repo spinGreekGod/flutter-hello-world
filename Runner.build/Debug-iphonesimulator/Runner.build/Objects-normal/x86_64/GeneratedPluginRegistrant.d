@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/raphael/flutter_hello_world/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/raphael/flutter_hello_world/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/raphael/flutter_hello_world/ios/Flutter/Flutter.framework/Headers/Flutter.h
